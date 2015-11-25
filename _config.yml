@@ -1,8 +1,20 @@
-layout_spectrum: 0.7575153
-typography_spectrum: 0.9088365
 color:
   saturation: 0.03936853
-  lightness: 0.2887246
   brandStrength: 0.8409868
   rhythmicContrast: 0.3541858
+  lightness: 0.2887246
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7575153
+typography_spectrum: 0.9088365
 name: Something From Nothing
