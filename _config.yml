@@ -1,8 +1,7 @@
-color:
-  saturation: 0.03936853
-  brandStrength: 0.8409868
-  rhythmicContrast: 0.3541858
-  lightness: 0.2887246
+name: Something From Nothing
+favicon: null
+layout_spectrum: 0.7575153
+typography_spectrum: 0.9088365
 collections:
   - index:
       path: /
@@ -15,6 +14,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7575153
-typography_spectrum: 0.9088365
-name: Something From Nothing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8409868
+  lightness: 0.2887246
+  saturation: 0.03936853
+  rhythmicContrast: 0.3541858
+purpose: []
